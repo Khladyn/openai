@@ -24,7 +24,7 @@
         <!-- Navigation Header -->
         <nav class="navbar bg-light navbar-expand-lg bg-body-tertiary sticky-top shadow-lg" data-bs-theme="light">
             <div class="container-fluid">
-                <a class="navbar-brand fw-bold" href="index.php">Finals Activity#1</a>
+                <a class="navbar-brand fw-bold" href="index.php"><i class="bi bi-file-earmark-code-fill"></i> Finals Activity#1</a>
                 <p class="mx-3 my-2 d-none d-md-block fw-semibold"> Jean Khladyn Stefanie L. Abarquez / 4-ITC </p>
             </div>
         </nav>
