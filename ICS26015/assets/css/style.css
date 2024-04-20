@@ -46,6 +46,14 @@ footer {
 	padding: 12px;
 }
 
+.modal-scroll {
+	max-height: 400px; 
+	overflow-y: auto;
+	background-color: #f5f5f5;
+	padding: 20px;
+	border-radius: 8px;
+}
+
 /* Scrollbar */
 
 ::-webkit-scrollbar {
