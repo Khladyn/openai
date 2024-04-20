@@ -2,19 +2,52 @@
 
 body {
     font-family: 'Montserrat', sans-serif !important;
-
-    background-color: #303030;
+    background-color: #303030 !important;
     color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
 
 footer {
-	background-color: #202020;
+	background-color: #202020 !important;
 	overflow: hidden;
 	width: 100%;
 	color: #FFFFFF;
 	padding: 20px;
-	font-size: 13px;
+	font-size: 15px;
     text-align: center;
+}
+
+.cat1, .cat1 h1, .cat1 h2 {
+	color: #FFFFFF;
+}
+
+.cat2, .cat2 h1, .cat2 h2 {
+	color: #FFFFFF;
+}
+
+.cat3, .cat3 h1, .cat3 h2 {
+	color: #FFFFFF;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+	height: 10px;
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    border: 7px solid #0a0a0a;
+    box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,0);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #505050;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #808080;
+    border-radius: 3px;
 }
